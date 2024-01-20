@@ -31,8 +31,8 @@ export default function Home() {
       />
       <div className={styles.sliderContainer}>
         <div className={styles.slider}>
-          <p ref={firstText}> Software Developer - </p>
-          <p ref={secondText}> Software Developer - </p>
+          <p ref={firstText}> Software Engineer - </p>
+          <p ref={secondText}> Software Engineer - </p>
         </div>
       </div>
     </main>
